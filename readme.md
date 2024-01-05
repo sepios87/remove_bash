@@ -53,3 +53,6 @@ Le script s'assure de s'ajouter lui-même au fichier `.gitignore`. Cela garantit
 - **Interface Utilisateur Améliorée :** Améliorez l'interface utilisateur en affichant des messages plus informatifs et en rendant le script interactif.
 
 - **Gestion des Erreurs :** Ajoutez une gestion robuste des erreurs pour traiter les situations exceptionnelles de manière appropriée.
+
+### Algorigramme du fonctionnement du script
+<img src="./diagramme.drawio.png"/>
