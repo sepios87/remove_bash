@@ -1,1 +1,1 @@
-console.log('Ceci est un test !')
+console.log('Ceci est un test pour travis !')
