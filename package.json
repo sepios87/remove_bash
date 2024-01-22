@@ -1,0 +1,11 @@
+{
+  "name": "remove_bash",
+  "version": "1.0.0",
+  "description": "Ce script Bash, baptisé \"Manon\", a été créé pour surveiller les modifications non commitées dans un référentiel Git. Il utilise des notifications pour alerter l'utilisateur lorsque le nombre de fichiers modifiés atteint un seuil spécifié.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
